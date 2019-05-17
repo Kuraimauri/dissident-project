@@ -1,0 +1,12 @@
+D:\Proyectos\Visual Studio 2010\Projects\Dissident Project\Dissident Project\bin\Debug\Dissident Project.exe
+D:\Proyectos\Visual Studio 2010\Projects\Dissident Project\Dissident Project\bin\Debug\Dissident Project.pdb
+D:\Proyectos\Visual Studio 2010\Projects\Dissident Project\Dissident Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Visual Studio 2010\Projects\Dissident Project\Dissident Project\obj\x86\Debug\Dissident Project.exe
+D:\Proyectos\Visual Studio 2010\Projects\Dissident Project\Dissident Project\obj\x86\Debug\Dissident Project.pdb
+C:\Users\Mauricio Arias\Documents\Proyectos\CS_Dissident Project\Dissident Project\obj\x86\Debug\Dissident Project.exe
+C:\Users\Mauricio Arias\Documents\Proyectos\CS_Dissident Project\Dissident Project\obj\x86\Debug\Dissident Project.pdb
+C:\Users\Mauricio Arias\SkyDrive\Proyectos\Dissident Project\Dissident Project\obj\x86\Debug\Dissident Project.exe
+C:\Users\Mauricio Arias\SkyDrive\Proyectos\Dissident Project\Dissident Project\obj\x86\Debug\Dissident Project.pdb
+C:\Users\Mauricio Arias\SkyDrive\Proyectos\Dissident Project\Dissident Project\bin\Debug\Dissident Project.exe
+C:\Users\Mauricio Arias\SkyDrive\Proyectos\Dissident Project\Dissident Project\bin\Debug\Dissident Project.pdb
+C:\Users\Mauricio Arias\SkyDrive\Proyectos\Dissident Project\Dissident Project\obj\x86\Debug\ResolveAssemblyReference.cache
