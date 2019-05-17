@@ -10,3 +10,9 @@ C:\Users\Mauricio Arias\SkyDrive\Proyectos\Dissident Project\Dissident Project\o
 C:\Users\Mauricio Arias\SkyDrive\Proyectos\Dissident Project\Dissident Project\bin\Debug\Dissident Project.exe
 C:\Users\Mauricio Arias\SkyDrive\Proyectos\Dissident Project\Dissident Project\bin\Debug\Dissident Project.pdb
 C:\Users\Mauricio Arias\SkyDrive\Proyectos\Dissident Project\Dissident Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\natsu\OneDrive\_Mauricio\Documentos\GitHub\dissident-project\Dissident Project\bin\Debug\Dissident Project.exe
+C:\Users\natsu\OneDrive\_Mauricio\Documentos\GitHub\dissident-project\Dissident Project\bin\Debug\Dissident Project.pdb
+C:\Users\natsu\OneDrive\_Mauricio\Documentos\GitHub\dissident-project\Dissident Project\obj\x86\Debug\Dissident Project.csprojAssemblyReference.cache
+C:\Users\natsu\OneDrive\_Mauricio\Documentos\GitHub\dissident-project\Dissident Project\obj\x86\Debug\Dissident Project.csproj.CoreCompileInputs.cache
+C:\Users\natsu\OneDrive\_Mauricio\Documentos\GitHub\dissident-project\Dissident Project\obj\x86\Debug\Dissident Project.exe
+C:\Users\natsu\OneDrive\_Mauricio\Documentos\GitHub\dissident-project\Dissident Project\obj\x86\Debug\Dissident Project.pdb
